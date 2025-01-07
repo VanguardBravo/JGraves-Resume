@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    font-family: "Roboto", serif;
+    font-weight: 900;
+    font-style: normal;
+    
+}
+
+
+body{
+    background-color: #E1F0DA;
+}
+
+
+a{
+    color: #99BC85;
+}
+
+.navigation{
+    background-color: blue;
+}  
