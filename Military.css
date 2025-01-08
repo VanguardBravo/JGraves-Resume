@@ -10,7 +10,7 @@ body {
 }
 
 a {
-  color: #e2dad6;
+  color: #6482ad;
 }
 
 .navigation {
@@ -25,5 +25,5 @@ ol {
 #header {
   border: 5px solid black;
   padding: 20px;
-  background-color: #6482ad;
+  background-color: #e2dad6;
 }
