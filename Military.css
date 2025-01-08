@@ -5,12 +5,12 @@
 }
 
 body {
-  background-color: #e1f0da;
+  background-color: #7fa1c3;
   text-align: center;
 }
 
 a {
-  color: #99bc85;
+  color: #e2dad6;
 }
 
 .navigation {
@@ -25,5 +25,5 @@ ol {
 #header {
   border: 5px solid black;
   padding: 20px;
-  background-color: #bfd8af;
+  background-color: #6482ad;
 }
