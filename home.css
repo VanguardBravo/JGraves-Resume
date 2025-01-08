@@ -1,21 +1,24 @@
-*{
-    text-align: center;
-    font-family: "Roboto", serif;
-    font-weight: 900;
-    font-style: normal;
-    
+* {
+  text-align: center;
+  font-family: "Roboto", serif;
+  font-weight: 900;
+  font-style: normal;
 }
 
-
-body{
-    background-color: #E1F0DA;
+body {
+  background-color: #e1f0da;
 }
 
-
-a{
-    color: #99BC85;
+a {
+  color: #99bc85;
 }
 
-.navigation{
-    background-color: blue;
-}  
+.navigation {
+  background-color: blue;
+}
+
+#header {
+  border: 5px solid black;
+  padding: 20px;
+  background-color: #bfd8af;
+}
